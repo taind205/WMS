@@ -1,7 +1,7 @@
 # WMS
 Hệ thống quản lý kho (Warehouse management system)
 
-Link demo sản phẩm: https://drive.google.com/drive/folders/1-pZg1WQEufzIA9xgARhUFlzSFdXEtROH?usp=sharing
+Link demo sản phẩm (gồm video và ảnh giao diện): https://drive.google.com/drive/folders/1-pZg1WQEufzIA9xgARhUFlzSFdXEtROH?usp=sharing
 
 Project front-end: https://github.com/taind205/wms-frontend
 
