@@ -24,5 +24,4 @@ Các chức năng chính của app:
   - Chức năng cho nhân viên phòng kinh doanh.
     + Quản lý danh mục hàng hóa.
     + Lập các yêu cầu nhập – xuất hàng khỏi kho.
-    + Quản lý vị trí hàng ở kho.
     + Lấy báo cáo hàng tồn kho, hàng sắp hết hạn.
