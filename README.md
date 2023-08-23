@@ -11,7 +11,7 @@ Thư mục 'IT': Chứa tài nguyên hệ thống và các file do người dùn
 
 Project được thực hiện với phiên bản Node v18.13.0
 
-Các icon sử dụng trong project được tạo bởi Freepik - Flaticon (https://www.flaticon.com/search?author_id=1)
+Các icon sử dụng trong project được tạo bởi Freepik - Flaticon (https://www.flaticon.com/authors/freepik)
 
 Các chức năng chính của app:
   - Chức năng cho admin:
