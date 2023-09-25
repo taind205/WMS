@@ -11,14 +11,14 @@ Icons used in project are made by [Freepik - Flaticon](https://www.flaticon.com/
 
 Main functions:
   - For admins:
-    + Manage Account: create accounts, lock accounts, set role for accounts.
-    + Manage Warehouse & Store information, set manager for warehouses.
+    + Manage account: create accounts, lock accounts, set role for accounts.
+    + Manage warehouse/store informations, assign managers for warehouses.
   - For warehousekeepers:
     + Approve export/import requests.
     + Manage product locations in warehouse.
   - For business staffs:
-    + Manage product informations.
     + Make export/import requests.
+    + Manage product informations.
     + Get inventory reports, expiry date reports.
 
 Some UI:
